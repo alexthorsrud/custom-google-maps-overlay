@@ -5,3 +5,5 @@ generate page with google maps and points of interest (grabbed from google's pla
 - googlemaps
 - gmplot
 - a google cloud api key
+
+### this script plots the locations of target, kroger, and publix stores
